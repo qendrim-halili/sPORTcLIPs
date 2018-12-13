@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Bootstrap Example</title>
+    <title>sPORTcLIPs</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -15,7 +15,7 @@
 <div class="jumbotron">
     <div class="container text-center">
         <h1>sPORTcLIPs</h1>
-        <p>Clips, Tips & Values</p>
+
     </div>
 </div>
 
@@ -68,9 +68,8 @@
 <br><br>
 
 <footer class="container-fluid text-center">
-    <p>Online Store Copyright</p>
     <form class="form-inline">
-        Footer
+        © Qendrim Halili
     </form>
 </footer>
 
